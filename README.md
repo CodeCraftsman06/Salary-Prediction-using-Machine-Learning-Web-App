@@ -39,12 +39,7 @@ This project demonstrates a simple linear regression model to predict employee s
 - pandas
 - numpy
 
-### Installing
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/my-ml-project.git
-   cd my-ml-project
 
 
 
